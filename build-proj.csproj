@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <Description>Template for creating build.proj file</Description>
-    <Authors></Authors>
+    <Authors>Oskar Gewalli</Authors>
     <PackageProjectUrl>https://github.com/wallymathieu/build-proj</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/wallymathieu/build-proj/blob/master/LICENSE.md</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/wallymathieu/build-proj.git</RepositoryUrl>
